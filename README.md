@@ -8,7 +8,7 @@
 
 ### Find me in:
 
-- <a href="https://www.linkedin.com/in/paris-arcos-martin-268708217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/paris-arcos-martin-268708217/" height="30" width="40" /></a>
+- <a href="https://www.linkedin.com/in/edgar-arcos-martin-642312264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/paris-arcos-martin-268708217/" height="30" width="40" /></a>
 
 
 ### About me:
@@ -25,7 +25,7 @@
 ### Stats:
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ParisArcos&show_icons=true&theme=dark" alt="stats-card" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=EdgarArcos&show_icons=true&theme=dark" alt="stats-card" />
 
 </p>
 
