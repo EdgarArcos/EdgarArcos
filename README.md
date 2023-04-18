@@ -14,9 +14,9 @@
 ### Sobre mi:
  🏝️Yo soy de Las Palmas de Gran Canaria , Islas Canarias ☀️, España.
 
- 💻 Empece a programar por mi cuenta a los 19 años en 2021 y arraiz de descubrir que me gustaba mucho decidi meterme en Assembler institute of technology en 2022 y tras 8 meses de 9 horas diarias lo he terminado en 2023
+ 💻 Empece a programar por mi cuenta a los 19 años en 2021 y arraiz de descubrir que me gustaba mucho decidi ampliar mis conocimientos en Assembler institute of technology en 2022 y tras 8 meses de 9 horas diarias lo he terminado en 2023
 
-🚶🏼‍♂️🙍🏼‍♂️Si tengo que destacar algo de mi SoftSkills es que soy una persona carismatica que se me da bien comunicarme ya que mi forma favorita de programar es en equipo ya que me gusta el computo social de tener compañeros de trabajo y siempre tengo mucha atencion al detalle a la hora de programar siempre y cuando tenga el tiempo necesario ya que siempre priorizo la funcionalidad 
+🚶🏼‍♂️🙍🏼‍♂️Si tengo que destacar algo de mi SoftSkills es que soy una persona carismatica que se me da bien comunicarme porque mi forma favorita de programar es en equipo ya que me gusta el computo social de tener compañeros de trabajo y siempre tengo mucha atencion al detalle a la hora de programar siempre y cuando tenga el tiempo necesario ya que siempre priorizo la funcionalidad 
 
 ### Una frase que describe mucho mi forma de pensar es:
 💭"Hay dos formas de escribir codigo sin errores; sólo la tercera funciona"
