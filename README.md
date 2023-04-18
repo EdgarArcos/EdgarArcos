@@ -18,7 +18,7 @@
 
 🚶🏼‍♂️🙍🏼‍♂️Si tengo que destacar algo de mi SoftSkills es que soy una persona carismatica que se me da bien comunicarme ya que mi forma favorita de programar es en equipo ya que me gusta el computo social de tener compañeros de trabajo y siempre tengo mucha atencion al detalle a la hora de programar siempre y cuando tenga el tiempo necesario ya que siempre priorizo la funcionalidad 
 
-### Una frase que me describe mucho mi forma de pensar es:
+### Una frase que describe mucho mi forma de pensar es:
 💭"Hay dos formas de escribir codigo sin errores; sólo la tercera funciona"
     -- Alan J. Perlis
 
