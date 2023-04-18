@@ -1,6 +1,6 @@
 ## Hola chicos <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Soy Edgar 🙋🏼‍♂️
 
-    🌱 Soy Full Stack developer con horientacion a frontend
+    🌱 Soy Full Stack developer con horientacion frontend
 
     👨‍💻 Mis lenguajes principales de backend MERN (MongoDB, Express, Node.js)
     👨‍💻 Mis lenguajes principales de Frontend (React.js, Tailwind and JavaScripts )
