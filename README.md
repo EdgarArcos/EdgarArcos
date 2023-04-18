@@ -6,12 +6,12 @@
     👨‍💻 Mis lenguajes principales de Frontend (React.js, Tailwind and JavaScripts )
 
 
-### Find me in:
+### Linkedin:
 
 - <a href="https://www.linkedin.com/in/edgar-arcos-martin-642312264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/edgar-arcos-martin-268708217/" height="30" width="40" /></a>
 
 
-### About me:
+### Sobre mi:
  🏝️Yo soy de Las Palmas de Gran Canaria , Islas Canarias ☀️, España.
 
  💻 Empece a programar por mi cuenta a los 19 años en 2021 y arraiz de descubrir que me gustaba mucho decidi meterme en Assembler institute of technology en 2022 y tras 8 meses de 9 horas diarias lo he terminado en 2023
@@ -22,7 +22,7 @@
 💭"Hay dos formas de escribir codigo sin errores; sólo la tercera funciona"
     -- Alan J. Perlis
 
-### Stats:
+### Estadisticas:
 
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=EdgarArcos&show_icons=true&theme=dark" alt="stats-card" />
@@ -35,7 +35,7 @@
 
 </p>
 
-### Technologies:
+### Tecnologias:
 <p align="center">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" title="html5"/> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" title="css3"/>  
