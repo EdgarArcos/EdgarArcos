@@ -1,4 +1,4 @@
-## Hola chicos 👋, Soy Paris 🙋🏼‍♂️
+## Hola chicos 👋, Soy Edgar 🙋🏼‍♂️
 
     🌱 Soy Full Stack developer con horientacion a frontend
 
