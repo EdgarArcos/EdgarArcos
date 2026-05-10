@@ -22,19 +22,6 @@
 💭 "There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies."
 -- Alan J. Perlis --
 
-### Statistics:
-
-<p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=EdgarArcos&show_icons=true&theme=dark" alt="stats-card" />
-
-</p>
-
-</br>
-<p align="center">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdgarArcos&layout=compact&theme=dark" alt="stats-card" />
-
-</p>
-
 ### Technologies:
 
 <p align="center">
